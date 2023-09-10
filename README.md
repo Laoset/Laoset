@@ -55,7 +55,7 @@
 </div>
 
 </td></tr></table>
-<h3 style="margin: 10px"> Clearly including <span style="font-weight: bold">HTML</span> and <span style="font-weight: bold">CSS</span> </h3>
+<h4 style="margin: 10px"> Clearly including <span style="font-weight: bold">HTML</span> and <span style="font-weight: bold">CSS</span> </h4>
 <br/>
 
 <h2>Connect with me </h2>
