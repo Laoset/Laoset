@@ -14,7 +14,7 @@
 
 <h1> What do I do? </h1>
 <h3> Constantly adding more projects to my <a href="https://portfolio-kevinc-orman.netlify.app/" target="_blank">Portfolio </a> </h3>
-<h3> 🔭 Currently working on the<a href="https://pf-grupo-2.vercel.app/" target="_blank"> iCare</a> project</h3>
+<h3> 🔭 My goal is to learn new technologies and grow as a programmer </h3>
 <h3> 🌱 Learning Typescript </h3>
 
 <br/>
