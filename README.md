@@ -8,14 +8,14 @@
 
 <h1>About me </h1>
 
-<h3>I am a full stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h3> 
-<h3> Passionate about the IT world, from an early age building and repairing PCs, but without making the click to study formally. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h3>
+<h4>I am a full stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
+<h4> Passionate about the IT world, from an early age building and repairing PCs, but without making the click to study formally. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
 <br/>
 
 <h1> What do I do? </h1>
-<h3> Constantly adding more projects to my <a href="https://portfolio-kevinc-orman.netlify.app/" target="_blank">Portfolio </a> </h3>
-<h3> 🔭 My goal is to learn new technologies and grow as a programmer </h3>
-<h3> 🌱 Learning Typescript </h3>
+<h4> 👨‍💻 Constantly adding more projects to my <a href="https://portfolio-kevinc-orman.netlify.app/" target="_blank">Portfolio </a> </h4>
+<h4> 🔭 My goal is to learn new technologies and grow as a programmer </h4>
+<h4> 🌱 Learning Typescript </h4>
 
 <br/>
 
