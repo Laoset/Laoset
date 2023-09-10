@@ -6,7 +6,7 @@
 
 <div align="center"> <h1> I'm Alan Kevin Corman Samanamud 👨‍💻 </h1> </div>
 
-<h1>About me </h1>
+<h2>About me </h2>
 
 <h4>I am a full stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
 <h4> Passionate about the IT world, from an early age building and repairing PCs, but without making the click to study formally. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
@@ -20,11 +20,11 @@
 
 <br/>
 
-<h1>My Skill set </h1>
+<h2>My Skill set </h2>
 
 <table><tr><td valign="top" width="33%">
 
-<h2>Frontend </h2>
+<h3>Frontend </h3>
 
 <div align="center" style="background-color: white">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -36,7 +36,7 @@
 
 </td><td valign="top" width="33%">
 
-<h2>Backend and BD</h2>
+<h3>Backend and BD</h3>
 
 <div align="center" style="background-color: #FFFFFF">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -46,7 +46,7 @@
 
 </td><td valign="top" width="33%">
 
-<h2>Tools </h2>
+<h3>Tools </h3>
 
 <div align="center" style="background-color: white">  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
@@ -58,7 +58,7 @@
 <h3 style="margin: 10px"> Clearly including <span style="font-weight: bold">HTML</span> and <span style="font-weight: bold">CSS</span> </h3>
 <br/>
 
-<h1>Connect with me </h1>
+<h2>Connect with me </h2>
 
 <div align="center">
 <a href="https://github.com/laoset" target="_blank">
@@ -74,7 +74,7 @@
 
 <br/>
 
-<h1>Github Stats </h1>
+<h2>Github Stats </h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laoset&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
