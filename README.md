@@ -8,7 +8,7 @@
 
 <h2>About me </h2>
 
-<h4>I am a full stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
+<h4>I am a Full Stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
 <h4> Passionate about the IT world, from an early age building and repairing PCs. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
 <br/>
 
