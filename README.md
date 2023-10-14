@@ -12,7 +12,6 @@
 <h4> Passionate about the IT world, from an early age building and repairing PCs. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
 <br/>
 
-<h4> 🔭 My goal is to learn new technologies and grow as a programmer </h4>
 <h4> 🌱 Currently learning Typescript and NextJS </h4>
 <h4> 🗣️ Improving my English daily </h4>
 <h4> 👨‍💻 Constantly adding more projects to my <a href="https://portfolio-kevinc-orman.netlify.app/" target="_blank">Portfolio </a> </h4>
