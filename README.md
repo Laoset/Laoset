@@ -15,7 +15,6 @@
 <h4> 🌱 Currently learning Go and Astro</h4>
 <h4> 👨‍💻 Constantly adding more projects to my <a href="https://kevincorman.vercel.app/" target="_blank">Portfolio </a> </h4>
 
-
 <br/>
 
 <h2>My Skill set </h2>
@@ -24,7 +23,8 @@
 
 <h3>Frontend </h3>
 
-<div align="center" style="background-color: white">  
+<div align="center" style="background-color: white">
+<img src="./typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
