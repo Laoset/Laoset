@@ -20,7 +20,7 @@
 <h2>My Skill set </h2>
 
 <div align="center">
-<img src="./icons/typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
+<img src="./typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
 <img src="./icons/react-dark.svg" style="margin: 10px" alt="React" height="50"/>
 <img src="./icons/nodejs.svg" style="margin: 10px" alt="NodeJS" height="50"/>
 <img src="./icons/golang.svg" style="margin: 10px" alt="Go" height="50"/>
