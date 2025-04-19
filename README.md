@@ -8,13 +8,12 @@
 
 <h2>About me </h2>
 
-<h4>I am a Full Stack programmer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
-<h4> Passionate about the IT world, from an early age building and repairing PCs. Until I discovered Web programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
+<h4>I am a Software Developer with <span style="font-weight: bold">Front End orientation</span>.</h4> 
+<h4> Passionate about the IT world, from an early age building and repairing PCs. Until I discovered the programming, which I fell in love from the beginning when I coded my first 'Hello World'. </h4>
 <br/>
 
-<h4> 🌱 Currently learning Typescript and NextJS</h4>
-<h4> 🗣️ Improving my English daily </h4>
-<h4> 👨‍💻 Constantly adding more projects to my <a href="https://portfolio-kevinc-orman.netlify.app/" target="_blank">Portfolio </a> </h4>
+<h4> 🌱 Currently learning Go and Astro</h4>
+<h4> 👨‍💻 Constantly adding more projects to my <a href="https://kevincorman.vercel.app/" target="_blank">Portfolio </a> </h4>
 
 
 <br/>
