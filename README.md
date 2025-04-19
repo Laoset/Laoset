@@ -21,16 +21,16 @@
 
 <div align="center">
 <img src="./typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
-<img src="./icons/react-dark.svg" style="margin: 10px" alt="React" height="50"/>
-<img src="./icons/nodejs.svg" style="margin: 10px" alt="NodeJS" height="50"/>
-<img src="./icons/golang.svg" style="margin: 10px" alt="Go" height="50"/>
-<img src="./icons/postgresql.svg" style="margin: 10px" alt="PostgreSQL" height="50"/>
-<img src="./icons/redux.svg" style="margin: 10px" alt="Redux" height="50"/>
-<img src="./icons/tailwind.svg" style="margin: 10px" alt="Tailwind" height="50"/>
-<img src="./icons/materialui.svg" style="margin: 10px" alt="Material" height="50"/>
-<img src="./icons/jest.svg" style="margin: 10px" alt="Jest" height="50"/>
-<img src="./icons/testing-library.svg" style="margin: 10px" alt="Testing" height="50"/>
-<img src="./icons/figma.svg" style="margin: 10px" alt="Figma" height="50"/>
+<img src="./react-dark.svg" style="margin: 10px" alt="React" height="50"/>
+<img src="./nodejs.svg" style="margin: 10px" alt="NodeJS" height="50"/>
+<img src="./golang.svg" style="margin: 10px" alt="Go" height="50"/>
+<img src="./postgresql.svg" style="margin: 10px" alt="PostgreSQL" height="50"/>
+<img src="./redux.svg" style="margin: 10px" alt="Redux" height="50"/>
+<img src="./tailwind.svg" style="margin: 10px" alt="Tailwind" height="50"/>
+<img src="./materialui.svg" style="margin: 10px" alt="Material" height="50"/>
+<img src="./jest.svg" style="margin: 10px" alt="Jest" height="50"/>
+<img src="./testing-library.svg" style="margin: 10px" alt="Testing" height="50"/>
+<img src="./figma.svg" style="margin: 10px" alt="Figma" height="50"/>
 </div>
 
 <h2>Connect with me </h2>
