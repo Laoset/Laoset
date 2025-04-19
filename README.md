@@ -19,49 +19,23 @@
 
 <h2>My Skill set </h2>
 
-<table><tr><td valign="top" width="33%">
-
-<h3>Frontend </h3>
-
-<div align="center" style="background-color: white">
-<img src="./typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<div align="center">
+<img src="./icons/typescript.svg" style="margin: 10px" alt="TypeScript" height="50"/>
+<img src="./icons/react-dark.svg" style="margin: 10px" alt="React" height="50"/>
+<img src="./icons/nodejs.svg" style="margin: 10px" alt="NodeJS" height="50"/>
+<img src="./icons/golang.svg" style="margin: 10px" alt="Go" height="50"/>
+<img src="./icons/postgresql.svg" style="margin: 10px" alt="PostgreSQL" height="50"/>
+<img src="./icons/redux.svg" style="margin: 10px" alt="Redux" height="50"/>
+<img src="./icons/tailwind.svg" style="margin: 10px" alt="Tailwind" height="50"/>
+<img src="./icons/materialui.svg" style="margin: 10px" alt="Material" height="50"/>
+<img src="./icons/jest.svg" style="margin: 10px" alt="Jest" height="50"/>
+<img src="./icons/testing-library.svg" style="margin: 10px" alt="Testing" height="50"/>
+<img src="./icons/figma.svg" style="margin: 10px" alt="Figma" height="50"/>
 </div>
-
-</td><td valign="top" width="33%">
-
-<h3>Backend and BD</h3>
-
-<div align="center" style="background-color: #FFFFFF">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-<h3>Tools </h3>
-
-<div align="center" style="background-color: white">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td></tr></table>
-<h4 style="margin: 10px"> Clearly including <span style="font-weight: bold">HTML</span> and <span style="font-weight: bold">CSS</span> </h4>
-<br/>
 
 <h2>Connect with me </h2>
 
 <div align="center">
-<a href="https://github.com/laoset" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/alan-kevin-corman-samanamud-22b566176" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
