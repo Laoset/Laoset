@@ -2,7 +2,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:100%"/>
 </div>
 
-<br/>
 <div align="center"> <h1> 👋 Hello there  </h1> </div>
 
 <h2>About me </h2>
