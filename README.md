@@ -7,7 +7,7 @@
 <br/>
 
 <h4> 🌱 Currently learning Go and Astro</h4>
-<h4> 👨‍💻 Constantly adding more projects to my <a href="https://kevincorman.vercel.app/" target="_blank">Portfolio </a> </h4>
+<h4> 👨‍💻 Constantly adding more projects to my <a href="https://kevincorman.com/" target="_blank">Portfolio </a> </h4>
 
 <br/>
 
