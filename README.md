@@ -1,12 +1,8 @@
-## Hey, I'm Kevin Corman
+### Hey, I'm Kevin Corman
 
 <p align="left">
-  <a href="https://x.com/kevin143corman">
-    <img src="https://img.shields.io/badge/X-@kevin143corman-black?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="https://www.linkedin.com/in/kevin-corman/">
-    <img src="https://img.shields.io/badge/LinkedIn-kevin--corman-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
+  <a href="https://x.com/kevin143corman"><img src="https://img.shields.io/badge/X-@kevin143corman-black?style=flat-square&logo=x&logoColor=white" alt="X" style="margin-right:10px"></a>
+  <a href="https://www.linkedin.com/in/kevin-corman/"><img src="https://img.shields.io/badge/LinkedIn-kevin--corman-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 #### Software Developer — TypeScript • React • Next.js
